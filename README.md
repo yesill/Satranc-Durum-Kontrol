@@ -1,2 +1,2 @@
-# cs-tech-assessment
-cs-tech Applicant Assesment Test
+# Satranc Durum Kontrol
+Satranç tahtasındaki taşların tehdit durumlarına göre beyaz ve siyahın puanının hesaplanması.
